@@ -1,0 +1,5 @@
+project: ww2ogg
+target: ww2ogg
+
+cmds:
+  - cmd: /ww2ogg @@
